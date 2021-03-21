@@ -147,7 +147,7 @@ def create_doc():
     parent_pargraph2 = doc.add_paragraph(f"Bokk Title : {title}\n", "Title")
     doc.add_picture("resizefile.png")
     parent_pargraph3 = doc.add_paragraph(f"Bokk Author : {author}\n", "Title")
-    parent_pargraph3.add_run("\n\nPeter Bilolo Badibake")
+    parent_pargraph3.add_run("\n\nDummy user")
     parent_pargraph1.italic = True
     parent_pargraph3.bold = True
     current_section = doc.sections[-1]

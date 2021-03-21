@@ -89,4 +89,4 @@ def test_7():
 
 def test_8():
     with pytest.raises(ValueError):
-        assert reqstr2Obj("GET Peter/movie.mp4 HTTP1.1")
+        assert reqstr2Obj("GET User/movie.mp4 HTTP1.1")
