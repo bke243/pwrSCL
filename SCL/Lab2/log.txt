@@ -1,0 +1,3 @@
+/index.html 200 343 2
+/get/productid/3 404 0 1
+/get/products/4 200 43434 6

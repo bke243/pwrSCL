@@ -1,0 +1,10 @@
+/index.html 200 343 2
+/get/productid/3 404 0 1
+
+/get/productid/3 504 0 1                          
+/get/products/4 200 43434 6
+/index.html 200 343 2
+
+/index.html 400 343 2
+/index.html 500 343 2
+
